@@ -1,0 +1,19 @@
+{
+  "name": "personal_website",
+  "version": "1.0.0",
+  "description": "Personal Website for Rachad Chazbek",
+  "main": "home.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachadchazbek/rachadchazbek.git"
+  },
+  "author": "Rachad Chazbek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachadchazbek/rachadchazbek/issues"
+  },
+  "homepage": "https://github.com/rachadchazbek/rachadchazbek#readme"
+}
