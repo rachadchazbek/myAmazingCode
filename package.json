@@ -2,9 +2,9 @@
   "name": "personal_website",
   "version": "1.0.0",
   "description": "Personal Website for Rachad Chazbek",
-  "main": "home.js",
+  "main": "server.js",
   "scripts": {
-    "test": "jest"
+    "start": "nodemon ./server.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/rachadchazbek/rachadchazbek#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.14"
   }
 }
